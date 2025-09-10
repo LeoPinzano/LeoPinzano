@@ -73,9 +73,8 @@ The project includes custom signal processing algorithms and robust error handli
 ---
 
 ## 📫 Contact
-- **Email**: [your.email@example.com]  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio**: [your-website.com](https://your-website.com)  
+- **Email**: [leo.pinzano@live.fr]  
+- **LinkedIn**: [linkedin.com/in/leo-pinzano](https://www.linkedin.com/in/leo-pinzano-0a0085350)  
 
 ---
 
